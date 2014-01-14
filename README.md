@@ -12,7 +12,7 @@ class to play the message.
 
 I've also added a mini tutorial using the ShowcaseView library. You'll need to 
 include this library if you want to build and run the demo. More information can 
-be found about ShowcaseView at http://espiandev.github.io/ShowcaseView/.
+be found about ShowcaseView at https://github.com/amlcurran/ShowcaseView.
 
 The SharedPreferences class is used to save the user defined message. 
  
